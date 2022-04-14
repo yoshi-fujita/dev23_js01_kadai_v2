@@ -1,4 +1,4 @@
-# 課題：じゃんけんゲーム　v２　（html、css、JavaScript、jQueryの学習）
+# 課題：じゃんけんゲームv２（html、css、JavaScript、jQueryの学習）
 
 ## ① 課題内容（どんな作品か）
 - html、css、JavaScript、jQuery　を使って、ブラウザ上で動作するじゃんけんゲームを自作する
