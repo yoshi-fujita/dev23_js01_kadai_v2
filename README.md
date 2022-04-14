@@ -19,3 +19,5 @@
 ## ④ その他（感想、シェアしたいことなんでも）
 - ディレイ表示は、こちらの記事を参考にしました。（一番最後の「async/awaitでsleep機能を作る」）https://www.sejuku.net/blog/24629
 - Github でインターネットに公開したので、スマホでも動作確認できました。https://yoshi-fujita.github.io/dev23_js01_kadai/
+- v2 https://yoshi-fujita.github.io/dev23_js01_kadai_v2/
+
